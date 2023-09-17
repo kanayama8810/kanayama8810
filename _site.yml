@@ -1,9 +1,14 @@
 name: "サイトタイトル"
 navbar: 
-  title: "My ウェブサイト"
+  title: "Hayato Kanayama"
   left:
     - text: "ホーム"
       href: index.html
+    - text: "略歴・業績"
+      href: cv.html
+    - text: "Rプログラミング"
+      href: R_programming.html
+
 output:
   html_document:
     css: site_style.css
