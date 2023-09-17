@@ -1,0 +1,10 @@
+name: "サイトタイトル"
+navbar: 
+  title: "My ウェブサイト"
+  left:
+    - text: "ホーム"
+      href: index.html
+output:
+  html_document:
+    css: site_style.css
+output_dir: "docs"
