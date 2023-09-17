@@ -1,12 +1,16 @@
 ---
-title: "金山隼人（かなやま はやと）"
+title: ""
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### 早稲田大学大学院 経済学研究科 修士課程
+### 金山 隼人（Hayato Kanayama）
+
+\
+
+#### 早稲田大学大学院 経済学研究科 修士課程
 
 \
 
@@ -29,7 +33,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - ha13yato[at_mark]toki.waseda.jp
 
--> [at_mark]は@に変えてください。
+-> at_mark は@に変えてください。
 
 
 

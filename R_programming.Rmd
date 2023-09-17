@@ -6,7 +6,11 @@ title: "プログラミング"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+\
+
 # 過去に書いたコード
+
+\
 
 - [N人でM個のグッズをランダムに分配する](https://humanic8810bird.notion.site/a5f3587ecd314efa99db2a5bce3e2b72)
 
