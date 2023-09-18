@@ -31,9 +31,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### 連絡先
 
-- ha13yato[at_mark]toki.waseda.jp
+- ha13yato [at_mark] toki.waseda.jp
 
--> at_mark は@に変えてください。
+-> [at_mark]は、`@` に変換してください。
 
 
 
