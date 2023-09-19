@@ -29,6 +29,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \
 
+#### できごと
+
+- [26回 労働経済学コンファレンスでポスター発表をしました。](https://sites.google.com/site/kansailabor/conference/26th?authuser=0)
+- [2022年度 総務省統計局 統計データ分析コンペティション ；審査員奨励賞 受賞](https://www.nstac.go.jp/use/literacy/statcompe/award/)
+- [2020年度 高知工科大学 廣井勇賞 受賞](https://www.kochi-tech.ac.jp/news/img/874d9183fe1f3661a60067d98f550bdf.pdf) 
+
+※ 上記URLは、2023年6月3日に最終確認
+
 #### 連絡先
 
 - ha13yato [at_mark] toki.waseda.jp
