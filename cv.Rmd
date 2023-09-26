@@ -7,6 +7,16 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FXEQV713CW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FXEQV713CW');
+</script>
+
 ## 略歴
 
 - 2022.03 学士（経済学）；高知工科大学 経済・マネジメント学群
