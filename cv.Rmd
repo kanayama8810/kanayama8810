@@ -59,3 +59,10 @@ Coming soon...
 	1. 早稲田大学 TA ; Population Economics (Spring semester, 2023)
 	1. 早稲田大学 TA ; 計量経済学Ⅰ 01（2023年度）
 	1. 早稲田大学 TA ; 計量分析（政治） 01（2023年度）
+	
+## 所属学会
+
+- 日本経済学会
+
+
+（`r Sys.Date()` 最終更新 ）
