@@ -24,8 +24,6 @@ knitr::opts_chunk$set(echo = TRUE)
 #### 早稲田大学大学院 経済学研究科 修士課程
 
 
-<img src= IMG_2585.JPG width="20%">
-
 早稲田大学大学院 経済学研究科 修士課程に所属しています。 
 
 \ 
@@ -54,11 +52,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### できごと
 
+- [ワーキングペーパーを載せました: Discontinuous or Kinked Response? Dynamics of Unemployment Insurance and Public Assistance under the COVID-19 Crisis (with Michihito Ando and Masato Furuichi)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4617281)
 - [26回 労働経済学コンファレンスでポスター発表をしました。](https://sites.google.com/site/kansailabor/conference/26th?authuser=0)
-- [2022年度 総務省統計局 統計データ分析コンペティション ；審査員奨励賞 受賞](https://www.nstac.go.jp/use/literacy/statcompe/award/)
 - [2020年度 高知工科大学 廣井勇賞 受賞](https://www.kochi-tech.ac.jp/news/img/874d9183fe1f3661a60067d98f550bdf.pdf) 
 
-※ 上記URLは、2023年9月26日に最終確認
+※ 上記URLは、2023年12月4日に最終確認
 
 #### 連絡先
 

@@ -1,0 +1,57 @@
+---
+title: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FXEQV713CW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FXEQV713CW');
+</script>
+
+
+### Hayato Kanayama
+
+\ 
+
+#### Graduate school of Economics, Waseda university
+
+\ 
+
+#### Research Interest
+
+- Labour Economics
+- Personnel Economics
+- Public Economics
+
+\ 
+
+#### Work in progress
+
+- Minimum wage hikes and the heterogeneity of Labor supply in Japan
+- Dynamics of Unemeployment Insurance and Public Assistance under COVID-19 (with Michihito Ando and Masato Furuichi)
+- The returns to workplace schmoozing with boss in the firm（with Yuji Kawata and Ritsu Kitagawa）
+
+\ 
+
+#### News
+
+- [Uploaded our working Papers: Discontinuous or Kinked Response? Dynamics of Unemployment Insurance and Public Assistance under the COVID-19 Crisis (with Michihito Ando and Masato Furuichi)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4617281)
+- [Presentation (Sep 2023) : Labor Economic Conference](https://sites.google.com/site/kansailabor/conference/26th?authuser=0)
+- [Awarded (Nov 2020): Hiroi Isami Award](https://www.kochi-tech.ac.jp/news/img/874d9183fe1f3661a60067d98f550bdf.pdf) 
+
+I checked the URL `r Sys.Date()`
+
+#### Contract Information
+
+- ha13yato `@` toki.waseda.jp
+
+（`r Sys.Date()` 最終更新 ）
+

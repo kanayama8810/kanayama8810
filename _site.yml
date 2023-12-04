@@ -8,8 +8,12 @@ navbar:
       href: cv.html
     - text: "Rプログラミング"
       href: R_programming.html
+    - text: "English"
+      href: index_English.html
+    - text: "CV"
+      href: CV_English.html
 
 output:
   html_document:
-    css: site_style.css
+    css: bootstrap.css
 output_dir: "docs"
