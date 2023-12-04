@@ -36,7 +36,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Education
 
-- Master Causes in Economics (Apr 2022 - Present, Waseda University)
+- Master Program in Economics (Apr 2022 - Present, Waseda University)
 - B.A. in Economics (March 2022, Kochi University of Technology)
 
 \
