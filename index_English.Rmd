@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \ 
 
-#### Graduate school of Economics, Waseda university
+#### Graduate school of Economics, Waseda university ; Master program
 
 \ 
 
@@ -49,9 +49,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I checked the URL `r Sys.Date()`
 
-#### Contract Information
+#### Contact Information
 
 - ha13yato `@` toki.waseda.jp
 
-（`r Sys.Date()` 最終更新 ）
+（`r Sys.Date()` update ）
 
