@@ -77,7 +77,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \ 
 
-## Programming (Skills and Softweres)
+## Programming (Skills and Softwares)
 
 \ 
 
