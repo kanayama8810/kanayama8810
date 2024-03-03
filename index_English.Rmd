@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Research Interest
 
-- Labour Economics
+- Labor Economics
 - Personnel Economics
 - Public Economics
 

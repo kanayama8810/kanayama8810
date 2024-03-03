@@ -48,6 +48,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### 学会発表
 
+- [Asian and Australian Society of Labour Economics 2023 Conference](https://virtual.oxfordabstracts.com/#/event/public/4290/submission/245)
 - [2023年度 労働経済学コンファレンス（ポスターセッション）](https://sites.google.com/site/kansailabor/conference/26th?authuser=0)
 
 \ 
