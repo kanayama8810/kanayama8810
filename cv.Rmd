@@ -34,6 +34,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## 略歴
 
+- 2024.03 修士（経済学）；早稲田大学大学院 経済学研究科
 - 2022.03 学士（経済学）；高知工科大学 経済・マネジメント学群
 
 \
@@ -48,7 +49,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### 学会発表
 
-- [Asian and Australian Society of Labour Economics 2023 Conference](https://virtual.oxfordabstracts.com/#/event/public/4290/submission/245)
+- [Asian and Australasian Society of Labour Economics 2023 Conference](https://virtual.oxfordabstracts.com/#/event/public/4290/submission/245)
 - [2023年度 労働経済学コンファレンス（ポスターセッション）](https://sites.google.com/site/kansailabor/conference/26th?authuser=0)
 
 \ 

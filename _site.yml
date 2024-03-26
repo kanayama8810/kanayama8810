@@ -10,7 +10,7 @@ navbar:
       href: R_programming.html
     - text: "English"
       href: index_English.html
-    - text: "CV"
+    - text: "Brief CV"
       href: CV_English.html
 
 output:

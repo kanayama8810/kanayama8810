@@ -22,21 +22,17 @@ knitr::opts_chunk$set(echo = TRUE)
 - Name(Last, Family)
   - Hayato Kanayama
 
+- PhD student at [Waseda University](https://www.waseda.jp/fpse/gse/en/)
+
 - Country
   - Japan
-
-- Gender
-  - Male
-  
-- Birth Year
-  - 1999
 
 - E-mail
   - ha13yato`@`toki.waseda.jp
 
 ## Education
 
-- Master Program in Economics (Apr 2022 - Present, Waseda University)
+- Master Program in Economics (Apr 2022 - March 2024, Waseda University)
 - B.A. in Economics (March 2022, Kochi University of Technology)
 
 \
@@ -49,14 +45,21 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \ 
 
-#### Conference Presentations
+## Conference Presentations
 
-- [Asian and Australian Society of Labour Economics 2023 Conference](https://virtual.oxfordabstracts.com/#/event/public/4290/submission/245)
+- [Asian and Australasian Society of Labour Economics 2023 Conference](https://virtual.oxfordabstracts.com/#/event/public/4290/submission/245)
 - [Labor Economics Conference (2023). The Returns to Workplace Schmoozing with Bosses: Evidence from a Large Manufacturing Company](https://sites.google.com/site/kansailabor/conference/26th?authuser=0)
 
 \ 
 
-#### RA・SA・TA
+## Awards, Grants and Fellowship
+
+- W-SPRING (JST SPRING) Fellowship, April 2024 – March 2027.
+  - Stipend of ¥2,200,000 (JPY) per annum.
+  - Grant of ¥500,000 (JPY) per annum.
+
+
+## Academic Experience
 
 - RA; Research Assistant
 	1. RA for Michihito Ando（May 2022 - Present）
