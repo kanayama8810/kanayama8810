@@ -1,5 +1,5 @@
 ---
-title: ""
+title: ''
 ---
 
 ```{r setup, include=FALSE}
@@ -17,23 +17,24 @@ knitr::opts_chunk$set(echo = TRUE)
   gtag('config', 'G-FXEQV713CW');
 </script>
 
-## Information
+## Hayato Kanayama
 
-- Name(Last, Family)
-  - Hayato Kanayama
-
-- PhD student at [Waseda University](https://www.waseda.jp/fpse/gse/en/)
+PhD student at [Waseda University](https://www.waseda.jp/fpse/gse/en/)
 
 - Country
   - Japan
 
 - E-mail
   - ha13yato`@`toki.waseda.jp
+  
+  
 
 ## Education
 
-- M.A. in Economics (Apr 2022 - March 2024, Waseda University)
+- Ph.D. student, [Gradeate school of Ecnomics in Waseda University](https://www.waseda.jp/fpse/gse/en/) (Apr 2024 -- Present)
+- M.A. in Economics (March 2024, Waseda University)
 - B.A. in Economics (March 2022, Kochi University of Technology)
+
 
 \
 
@@ -54,26 +55,26 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Awards, Grants and Fellowship
 
-- W-SPRING (JST SPRING) Fellowship, April 2024 – March 2027.
-  - Stipend of ¥2,200,000 (JPY) per annum.
+- W-SPRING (JST SPRING) Fellowship, April 2024 -- March 2027.
+  - Stipend of ¥2,400,000 (JPY) per annum.
   - Grant of ¥500,000 (JPY) per annum.
 
 
 ## Academic Experience
 
-- RA; Research Assistant
-	1. RA for Michihito Ando（May 2022 - Present）
-	1. RA for Hideo Owan（Feb 2023 - Present）
+- Research Assistant
+	1. RA for Michihito Ando（May 2022 -- Present）
+	1. RA for Hideo Owan（Feb 2023 -- Present）
 
 \ 
 
-- SA; Student Assistant
+- Student Assistant
 	1. Research methods of survey（2021, Toshiyuki Himichi）
 	1. Intermediate statistics（2021, Yuki Yanai）
 	
 \	
 	
-- TA; Teaching Assistant
+- Teaching Assistant
 	1. Population Economics for Graduate students (Spring semester 2023, Masahiro Yoshida)
 	1. Introduction to Econometrics (Spring semester 2023, Yasushi Kondo )
 	1. Introduction to Quantitative politics（Spring semester 2023, Masahiko Asano）
