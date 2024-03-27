@@ -9,7 +9,7 @@ navbar:
     - text: "ホーム"
       href: index.html
     - text: "略歴・業績"
-      href: CV_English.html
+      href: cv.html
 
 output:
   html_document:
