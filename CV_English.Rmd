@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
   gtag('config', 'G-FXEQV713CW');
 </script>
 
-## Information
+### Information
 
 - Name(Last, Family)
   - Hayato Kanayama
@@ -30,14 +30,14 @@ knitr::opts_chunk$set(echo = TRUE)
 - E-mail
   - ha13yato`@`toki.waseda.jp
 
-## Education
+### Education
 
 - Master Program in Economics (Apr 2022 - March 2024, Waseda University)
 - B.A. in Economics (March 2022, Kochi University of Technology)
 
 \
 
-## Working Papers
+### Working Papers
 
 - [Discontinuous or Kinked Response? Dynamics of Unemployment Insurance and Public Assistance under the COVID-19 Crisis (with Michihito Ando and Masato Furuichi)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4617281)
 
@@ -45,25 +45,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \ 
 
-## Conference Presentations
+### Conference Presentations
 
 - [Asian and Australasian Society of Labour Economics 2023 Conference](https://virtual.oxfordabstracts.com/#/event/public/4290/submission/245)
 - [Labor Economics Conference (2023). The Returns to Workplace Schmoozing with Bosses: Evidence from a Large Manufacturing Company](https://sites.google.com/site/kansailabor/conference/26th?authuser=0)
 
 \ 
 
-## Awards, Grants and Fellowship
+### Awards, Grants and Fellowship
 
 - W-SPRING (JST SPRING) Fellowship, April 2024 – March 2027.
-  - Stipend of ¥2,200,000 (JPY) per annum.
+  - Stipend of ¥2,400,000 (JPY) per annum.
   - Grant of ¥500,000 (JPY) per annum.
 
 
-## Academic Experience
+### Academic Experience
 
 - RA; Research Assistant
-	1. RA for Michihito Ando（May 2022 - Present）
-	1. RA for Hideo Owan（Feb 2023 - Present）
+	1. RA for Michihito Ando（May 2022--Present）
+	1. RA for Hideo Owan（Feb 2023--Present）
 
 \ 
 
@@ -74,6 +74,8 @@ knitr::opts_chunk$set(echo = TRUE)
 \	
 	
 - TA; Teaching Assistant
+  1. Population Economics for Undergraduate (Spring semester 2024, Masahiro Yoshida)
+  1. Micro Economics 1 (Spring semester 2024, Hideo Owan)
 	1. Population Economics for Graduate students (Spring semester 2023, Masahiro Yoshida)
 	1. Introduction to Econometrics (Spring semester 2023, Yasushi Kondo )
 	1. Introduction to Quantitative politics（Spring semester 2023, Masahiko Asano）
@@ -81,11 +83,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \ 
 
-## Programming (Skills and Softwares)
+### Programming (Skills and Softwares)
 
 \ 
 
-### Analysis, Estimation and Data cleaning
+#### Analysis, Estimation and Data cleaning
 
 
 - R（Tidyverse R）
@@ -93,20 +95,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \ 
 
-### Writing
+#### Writing
 
 - Markdown
 - LaTeX
 
 \ 
 
-### Code management
+#### Code Management
 
 - [GitHub](https://github.com/kanayama8810)
 
 \ 
 
-## Membership
+### Membership
 
 - Japanese Economic Association
 - Asian and Australasian Society of Labour Economics

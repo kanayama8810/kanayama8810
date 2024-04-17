@@ -2,16 +2,14 @@ name: "サイトタイトル"
 navbar: 
   title: "Hayato Kanayama"
   left:
+    - text: "Home"
+      href: index_English.html
+    - text: "Brief CV"
+      href: CV_English.html
     - text: "ホーム"
       href: index.html
     - text: "略歴・業績"
       href: cv.html
-    - text: "Rプログラミング"
-      href: R_programming.html
-    - text: "English"
-      href: index_English.html
-    - text: "Brief CV"
-      href: CV_English.html
 
 output:
   html_document:

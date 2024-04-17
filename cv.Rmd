@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
   gtag('config', 'G-FXEQV713CW');
 </script>
 
-## 人物
+### 人物
 
 - 名前
   - 金山 隼人（Hayato, Kanayama）
@@ -32,14 +32,14 @@ knitr::opts_chunk$set(echo = TRUE)
   - 1999
 
 
-## 略歴
+### 略歴
 
 - 2024.03 修士（経済学）；早稲田大学大学院 経済学研究科
 - 2022.03 学士（経済学）；高知工科大学 経済・マネジメント学群
 
 \
 
-## 業績
+### 業績
 
 \ 
 
@@ -53,6 +53,14 @@ knitr::opts_chunk$set(echo = TRUE)
 - [2023年度 労働経済学コンファレンス（ポスターセッション）](https://sites.google.com/site/kansailabor/conference/26th?authuser=0)
 
 \ 
+
+### 奨学金・研究費助成
+
+- 早稲田大学 オープン・イノベーション・エコシステム挑戦的研究プログラム（WSPRING）, 2024年4月--2027年3月（予定）.
+  - 生活相当額：年額240万円
+  - 研究費：年額50万円
+
+\
 
 #### RA・SA・TA
 
@@ -77,11 +85,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \ 
 
-## プログラミングスキル
+### プログラミングスキル
 
 \ 
 
-### 計算および分析
+#### 計算および分析
 
 
 - R（Tidyverse R）
@@ -89,7 +97,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \ 
 
-### 文章執筆
+#### 文章執筆
 
 
 - Markdown
@@ -103,7 +111,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \ 
 
-## 所属学会
+### 所属学会
 
 - 日本経済学会
 
