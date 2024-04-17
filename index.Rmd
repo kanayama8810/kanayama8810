@@ -59,7 +59,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### 連絡先
 
-- Email  : ha13yato `@` toki.waseda.jp
+- Email  : ha13yato [at] toki.waseda.jp
 - 郵送先 : 〒162-0041 東京都新宿区早稲田鶴巻町513  121号館601B
 
 （`r Sys.Date()` 最終更新 ）

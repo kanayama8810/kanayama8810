@@ -72,12 +72,14 @@ knitr::opts_chunk$set(echo = TRUE)
 \ 
 
 - SA; Student Assistant
-	1. 高知工科大学 SA ; アンケート調査法（2021年度）
-	1. 高知工科大学 SA ; 統計学2（2021年度）
+	1. 高知工科大学 SA ; 2021年度 アンケート調査法（日道 俊之）
+	1. 高知工科大学 SA ; 2021年度 統計学2（矢内 勇生）
 	
 \	
 	
 - TA; Teaching Assistant
+  1. Population Economics ; Spring semester, 2024 (Yoshida, M)
+  1. Micro Economics 1 ; Spring semester, 2024 (Owan, H)
 	1. Population Economics；Spring semester, 2023 (YOSHIDA, M)
 	1. 計量経済学Ⅰ 01；2023年度 春学期（近藤 康之）
 	1. 計量分析（政治） 01；2023年度 春学期（浅野 正彦）

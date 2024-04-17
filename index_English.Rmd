@@ -21,7 +21,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \ 
 
-#### Graduate school of Economics, Waseda university ; Master program
+#### Graduate school of Economics, Waseda university 
+
+I am a PhD student in Graduate school of Economics, Waseda university. 
+My research interests lie primarily in the areas of Labor Economics and Personnel Economics. 
+My current research investigates the relationship between socializing and promotion on the firm 
+and Another research focus is the labor supply heterogeneity of minimum wage effect on the labor markets.
+
+ 
+
+
 
 \ 
 
@@ -37,7 +46,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Minimum wage hikes and the heterogeneity of Labor supply in Japan
 - Dynamics of Unemeployment Insurance and Public Assistance under COVID-19 (with Michihito Ando and Masato Furuichi)
-- The returns to workplace schmoozing with boss in the firm（with Yuji Kawata and Ritsu Kitagawa）
+- The returns to workplace schmoozing with boss in the firm（with Yuji Kawata and [Ritsu Kitagawa](https://www.ritsukitagawa.com/home)）
 
 \ 
 
@@ -47,11 +56,10 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Presentation (Sep 2023) : Labor Economic Conference](https://sites.google.com/site/kansailabor/conference/26th?authuser=0)
 - [Awarded (Nov 2020): Hiroi Isami Award](https://www.kochi-tech.ac.jp/news/img/874d9183fe1f3661a60067d98f550bdf.pdf) 
 
-I checked the URL `r Sys.Date()`
 
 #### Contact Information
 
-- ha13yato `@` toki.waseda.jp
+- ha13yato [at] toki.waseda.jp
 
 （`r Sys.Date()` update ）
 
