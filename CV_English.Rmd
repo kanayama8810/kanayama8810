@@ -32,7 +32,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Education
 
-- Master Program in Economics (Apr 2022 - March 2024, Waseda University)
+- M.A. in Economics (Apr 2022 - March 2024, Waseda University)
 - B.A. in Economics (March 2022, Kochi University of Technology)
 
 \
