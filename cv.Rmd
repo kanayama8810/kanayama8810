@@ -17,40 +17,32 @@ knitr::opts_chunk$set(echo = TRUE)
   gtag('config', 'G-FXEQV713CW');
 </script>
 
-### 人物
+### インフォメーション
 
-- 名前
-  - 金山 隼人（Hayato, Kanayama）
-
-- 国籍
-  - 日本（Japan）
-
-- 性別
-  - 男（Male）
-  
-- 生年
-  - 1999
-
+- 名前：金山 隼人（Hayato, Kanayama）
+- 所属：早稲田大学大学院 経済学研究科 博士後期課程
+- E-mail：ha13yato`[at]`toki.waseda.jp
 
 ### 略歴
 
 - 2024.03 修士（経済学）；早稲田大学大学院 経済学研究科
 - 2022.03 学士（経済学）；高知工科大学 経済・マネジメント学群
 
-\
-
-### 業績
-
 \ 
 
-#### Working paper
+### Working paper
 
 - [Discontinuous or Kinked Response? Dynamics of Unemployment Insurance and Public Assistance under the COVID-19 Crisis (with Michihito Ando, Masato Furuichi) ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4617281)
 
-#### 学会発表
+### 学会発表
 
+- [2024年度 日本経済学会 春季学会](https://confit.atlas.jp/guide/event/jea2024s/subject/2A204-07-04/tables?cryptoId=)
 - [Asian and Australasian Society of Labour Economics 2023 Conference](https://virtual.oxfordabstracts.com/#/event/public/4290/submission/245)
 - [2023年度 労働経済学コンファレンス（ポスターセッション）](https://sites.google.com/site/kansailabor/conference/26th?authuser=0)
+
+### ワークショップでの発表
+
+- [Contract Theory Workshop](https://sites.google.com/view/ctwz/)
 
 \ 
 

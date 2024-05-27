@@ -28,11 +28,11 @@ knitr::opts_chunk$set(echo = TRUE)
   - Japan
 
 - E-mail
-  - ha13yato`@`toki.waseda.jp
+  - ha13yato`[at]`toki.waseda.jp
 
 ### Education
 
-- M.A. in Economics (Apr 2022 - March 2024, Waseda University)
+- M.A. in Economics (March 2024, Waseda University)
 - B.A. in Economics (March 2022, Kochi University of Technology)
 
 \
@@ -47,10 +47,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Conference Presentations
 
+- [Japanese Economic Association 2024 Spring Meeting](https://confit.atlas.jp/guide/event/jea2024s/subject/2A204-07-04/tables?cryptoId=)
 - [Asian and Australasian Society of Labour Economics 2023 Conference](https://virtual.oxfordabstracts.com/#/event/public/4290/submission/245)
 - [Labor Economics Conference (2023). The Returns to Workplace Schmoozing with Bosses: Evidence from a Large Manufacturing Company](https://sites.google.com/site/kansailabor/conference/26th?authuser=0)
 
 \ 
+
+
+### Workshop Presentations
+
+- [Contract Theory Workshop](https://sites.google.com/view/ctwz/)
+
 
 ### Awards, Grants and Fellowship
 
